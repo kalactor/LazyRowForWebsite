@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lazy Row</string>
+
+    // Flower Name
+    <string name="rose_1">Red Rose</string>
+    <string name="rose_2">White Rose</string>
+    <string name="rose_3">White Rose</string>
+    <string name="rose_4">Pink Rose</string>
+    <string name="rose_5">Red Rose</string>
+    <string name="rose_6">White Rose</string>
+    <string name="rose_7">Yellow Rose</string>
+</resources>
